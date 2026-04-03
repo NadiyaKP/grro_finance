@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1067197390953",
+    "project_id": "grrofinance",
+    "storage_bucket": "grrofinance.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1067197390953:android:1fe9310ab7fcb1592482f8",
+        "android_client_info": {
+          "package_name": "com.example.grro_finance"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBP2M5VpjVVL7jjoc6j4mcSxKGRtNtVhHc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
